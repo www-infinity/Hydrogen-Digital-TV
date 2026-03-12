@@ -1,0 +1,21 @@
+{
+  "name": "hydrogen-digital-tv",
+  "version": "1.0.0",
+  "description": "Hydrogen signal emissions and retrieval visualization",
+  "main": "index.html",
+  "scripts": {
+    "serve": "python3 -m http.server 8000",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/www-infinity/Hydrogen-Digital-TV.git"
+  },
+  "keywords": [
+    "hydrogen",
+    "visualization",
+    "particle-physics"
+  ],
+  "author": "www-infinity",
+  "license": "MIT"
+}
